@@ -1,0 +1,7 @@
+#ifndef APISECRETS_H
+#define APISECRETS_H
+
+#define KUTEGRAM_API_ID 94575
+#define KUTEGRAM_API_HASH "a3406de8d171bb422bb6ddf3bbd800e2"
+
+#endif // APISECRETS_H
