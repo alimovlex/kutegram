@@ -1,0 +1,11 @@
+#{"Pigler Java API"},(0x20292B70),1,0,0
+
+[0x2003A678], 0, 0, 0, {"S60ProductID"} ; Belle
+
+%{"nnproject"}
+
+:"nnproject"
+
+"$(EPOCROOT)Epoc32\release\$(PLATFORM)\$(TARGET)\piglerjavaapi.dll"-"c:\sys\bin\piglerjavaapi.dll"
+"..\odc\javapiglerapi.odc"-"C:\resource\java\jvm\lib\jrt\javapiglerapi.odc"
+"..\eclipse\javapiglerapi.jar"-"C:\resource\java\jvm\lib\jrt\odc\javapiglerapi.jar"

@@ -1,0 +1,24 @@
+#include "ecom\registryinfo.rh"
+#include "PiglerUids.hrh"
+RESOURCE REGISTRY_INFO
+{
+	dll_uid = KPiglerPluginUID;
+	interfaces =
+	{
+		INTERFACE_INFO
+		{
+			interface_uid = 0x10275092;
+			implementations =
+			{
+				IMPLEMENTATION_INFO
+				{
+					implementation_uid = KPiglerPluginUID;
+					version_no = 1;
+					display_name = "";
+					default_data = "Default";
+					opaque_data = "";
+				}
+			};
+		}
+	};
+}
